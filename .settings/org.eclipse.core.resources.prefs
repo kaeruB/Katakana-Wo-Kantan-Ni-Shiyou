@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/JUTest.java=UTF-8
+encoding//src/main/MainView.java=UTF-8
+encoding//src/resultAndErrorWindows/EndOfSyllableGame.java=UTF-8
+encoding//src/resultAndErrorWindows/Results.java=UTF-8
+encoding//src/syllableClasses/ChoosingPresentation.java=UTF-8
+encoding//src/syllableClasses/ChoosingSyllableGameSize.java=UTF-8
+encoding//src/syllableClasses/ChoosingSyllableTest.java=UTF-8
+encoding//src/syllableClasses/Presentation.java=UTF-8
+encoding//src/syllableClasses/SyllableGame.java=UTF-8
+encoding//src/syllableClasses/SyllableTest.java=UTF-8
+encoding//src/wordClasses/ChoosingWordTest.java=UTF-8
+encoding//src/wordClasses/WordPresentation.java=UTF-8
+encoding//src/wordClasses/WordTest.java=UTF-8
